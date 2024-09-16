@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ifml.sample</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.sirius.nature.modelingproject</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>models/model.uml</name>
+			<type>1</type>
+			<location>C:/Users/carol/Downloads/model.uml</location>
+		</link>
+	</linkedResources>
+</projectDescription>
